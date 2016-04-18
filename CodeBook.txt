@@ -1,0 +1,16 @@
+DATA DICTIONARY
+Mobile_Tech_Study_Complete.txt
+Mobile_Tech_Study_Summary.txt
+
+Subject_ID
+1-30 unique identifier of 30 people who participated in the study.
+
+Activity_ID - Activity_Label
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
+
+Other fields are numeric observations taken during the study.
